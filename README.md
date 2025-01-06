@@ -6,8 +6,8 @@ Hello! My name is Ashiqul Alam, a junior studying Computer Science at the Univer
 
 **Table of Contents**
 
-1. Analysis of Tucson Crime and Income: A Machine Learning Project
-2. Computer Processor Simulation: A C/Java project
+1. Analysis of Tucson Crime and Income: A Machine Learning Project (Project 1)
+2. Computer Processor Simulation: A C/Java project 
 3. BattleShip: A Java team project
 
 **Contact Information**

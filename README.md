@@ -13,5 +13,7 @@ Hello! My name is Ashiqul Alam, a junior studying Computer Science at the Univer
 **Contact Information**
 
 If you want to, you can reach out to me via Email or LinkedIn:
+
 Email: ashiqalam495@gmail.com, ashiqulalam@arizona.edu
+
 LinkedIn: https://www.linkedin.com/in/ashiqul-alam/

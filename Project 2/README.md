@@ -18,4 +18,7 @@ Sim 2: This part focused on implement half adders and full adders and create a c
 
 Sim 3: This sim prioritized on building the Arithmetic Logic Unit (ALU) using the multi-bit adder method and all the logic gates from the previous sim projects. It also focused on creating a multiplexer that has the capability to select one of the many ALU operations to be done.
 
-Sim 4: 
+Sim 4: This sim saw the construction of all the previous components to finally build the initial components that a basic processor contains such as Instruction Decode, ALU operations and updating the registers as necessary
+
+Sim 5: This sim is a continuation of sim 4's construction of the the processor architecture that saw the completion of the remaining phases like Memory Writeback.
+

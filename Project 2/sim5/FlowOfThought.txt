@@ -1,0 +1,4 @@
+non matching lw
+
+lw $t0, 0($t1)
+lw $t0, 9($t2)

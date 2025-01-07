@@ -1,0 +1,8 @@
+MUX: control=0 in=[true, false, false, false, false, false, false, false] -> true
+MUX: control=1 in=[false, true, false, false, false, false, false, false] -> true
+MUX: control=2 in=[false, false, true, false, false, false, false, false] -> true
+MUX: control=3 in=[false, false, false, true, false, false, false, false] -> true
+MUX: control=4 in=[false, false, false, false, true, false, false, false] -> true
+MUX: control=5 in=[false, false, false, false, false, true, false, false] -> true
+MUX: control=6 in=[false, false, false, false, false, false, true, false] -> true
+MUX: control=7 in=[false, false, false, false, false, false, false, true] -> true

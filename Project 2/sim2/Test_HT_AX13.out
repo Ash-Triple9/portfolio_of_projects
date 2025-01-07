@@ -1,0 +1,7 @@
+  01
++ 01
+----
+  10
+
+  carryOut = 0
+  overflow = 1

@@ -18,3 +18,4 @@ The first learning model was a multinomial regression model that aimed to predic
 
 The second learning model was a random tree classifier to predict the prevalent crime type in a neighborhood. Again, even though the confidence detectors (precision, recall etc.) weren't ideal, it just meant that there was not a solid enough trend between the type of crimes and the neighborhood it occurred in.
 
+To see a detailed documentation of our findings, you can go to the following google doc: https://docs.google.com/document/d/1ldmHuLQZa5c0GG7wCojoj6zXrAsQZNnnyW2vqSe6-H0/edit?usp=sharing 

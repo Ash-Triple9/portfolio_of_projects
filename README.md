@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Hello! My name is Ashiqul Alam, a junior studying Computer Science at the University of Arizona. This repository is created to showcase all the different coding projects I have completed since beginning my journey as a computer scientist. Hope some of these projects catch your eyes!
+Hello! My name is Ashiqul Alam, a junior studying Computer Science at the University of Arizona. This repository is created to showcase some of the coding projects I have completed since beginning my journey as a computer scientist, . Hope some of these projects catch your eyes!
 
 **Table of Contents**
 

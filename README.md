@@ -8,7 +8,7 @@ Hello! My name is Ashiqul Alam, a junior studying Computer Science at the Univer
 
 1. Analysis of Tucson Crime and Income: A Machine Learning Project ([Project 1](https://github.com/Ash-Triple9/portfolio_of_projects/tree/eb3e66c8f99dd2eca3b77f66987535a050c958d6/Project%201))
 2. Computer Processor Simulation: A C/Java project ([Project 2](https://github.com/Ash-Triple9/portfolio_of_projects/tree/75db0254685a2c7d020825d72f9f7f419ed69ced/Project%202))
-3. BattleShip: A Java team project ([Project 3](https://github.com/Ash-Triple9/portfolio_of_projects/tree/b495d785e474eab42aef143e6181e3e87b530aae/Project%203))
+3. BattleShip: A Java team project ([Project 3](https://github.com/Ash-Triple9/portfolio_of_projects/tree/83846ddfbe8beb46d873551a58b612f3cb6a75c8/Project%203))
 
 **Contact Information**
 

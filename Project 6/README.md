@@ -1,0 +1,1 @@
+The following projects were built as part of CodePath's AI110 course. The starter template was provided by CodePath; all analytical logic, model integration, and [specific features you added] were implemented independently.

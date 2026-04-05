@@ -1,0 +1,16 @@
+-- drop commands
+drop table eventBooking;
+drop table adoption;
+drop table orderLine;
+drop table healthRecord;
+drop table event;
+drop table orders;
+drop table application;
+drop table reservation;
+drop table employee;
+drop table pet;
+drop table member;
+drop table foodItem;
+drop table membershipTier;
+drop table breed;
+drop table room;

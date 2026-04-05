@@ -6,9 +6,12 @@ Hello! My name is Ashiqul Alam, a senior studying Computer Science at the Univer
 
 **Table of Contents**
 
-1. Analysis of Tucson Crime and Income: A Machine Learning Project ([Project 1](https://github.com/Ash-Triple9/portfolio_of_projects/tree/eb3e66c8f99dd2eca3b77f66987535a050c958d6/Project%201))
-2. Computer Processor Simulation: A C/Java project ([Project 2](https://github.com/Ash-Triple9/portfolio_of_projects/tree/75db0254685a2c7d020825d72f9f7f419ed69ced/Project%202))
-3. BattleShip: A Java team project ([Project 3](https://github.com/Ash-Triple9/portfolio_of_projects/tree/83846ddfbe8beb46d873551a58b612f3cb6a75c8/Project%203))
+1. Enefit: Predict Energy Behavior of Prosumers: A Machine Learning Project in Python
+2. Analysis of Tucson Crime and Income: A Machine Learning Project in Python ([Project 1](https://github.com/Ash-Triple9/portfolio_of_projects/tree/eb3e66c8f99dd2eca3b77f66987535a050c958d6/Project%201))
+3. Computer Processor Simulation: An OS project in C/Java ([Project 2](https://github.com/Ash-Triple9/portfolio_of_projects/tree/75db0254685a2c7d020825d72f9f7f419ed69ced/Project%202))
+4. Pet Cafe: A Database Designs Project in SQL/Java
+5. BattleShip: An OOP project in Java ([Project 3](https://github.com/Ash-Triple9/portfolio_of_projects/tree/83846ddfbe8beb46d873551a58b612f3cb6a75c8/Project%203))
+6. CodePath AI Projects: AI Engineering projects (CodePath course) 
 
 **Contact Information**
 

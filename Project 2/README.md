@@ -17,5 +17,3 @@ Exploratory data analysis of our desired databases (crime and neighborhood) conf
 The first learning model was a multinomial regression model that aimed to predict the arrests per household of a neighborhood given the income. Although not giving us a good R^2 value (an arbritrary scalar between -1 and 1 to indicate how well a model behaves with new data), it was a good learning model to showcase our findings.
 
 The second learning model was a random tree classifier to predict the prevalent crime type in a neighborhood. Again, even though the confidence detectors (precision, recall etc.) weren't ideal, it just meant that there was not a solid enough trend between the type of crimes and the neighborhood it occurred in.
-
-To see a detailed documentation of our findings, you can go to the following google doc: https://docs.google.com/document/d/1ldmHuLQZa5c0GG7wCojoj6zXrAsQZNnnyW2vqSe6-H0/edit?usp=sharing 
